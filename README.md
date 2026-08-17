@@ -30,11 +30,11 @@ I am a 3rd-year Computer Science student at Ho Chi Minh City Open University wit
 - SQL Server
 - MySQL
 
-###🌟 **Soft Skills:**
+### Soft Skills
 - Problem Solving
 - Teamwork
 - Effective Communication
-- - Adaptability
+- Adaptability
 - Responsibility
 
 ---
